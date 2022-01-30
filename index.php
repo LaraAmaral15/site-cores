@@ -30,7 +30,7 @@
 				<div class="row justify-content-center">	
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="pastel.jpg" class="card-img-top " alt="brigadeiro">
+					  <img src="pastel.jpg" class="card-img-top " alt="Imagem Cor Pastel">
 					  <div class="card-body">
 					    <h5 class="card-title">Tons Pastéis</h5>
 					   <div class="dropdown">
@@ -73,7 +73,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="azul.jpg" class="card-img-top" alt="brigadeiro">
+					  <img src="azul.jpg" class="card-img-top" alt="Imagem Cor Azul">
 					  <div class="card-body">
 					    <h5 class="card-title">Azul</h5>
 					    <div class="dropdown">
@@ -109,7 +109,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="ciano.jpg" class="card-img-top" alt="Doce Gelado de Coco com Chocolate">
+					  <img src="ciano.jpg" class="card-img-top" alt="Imagem Cor Ciano">
 					  <div class="card-body">
 					    <h5 class="card-title">Ciano</h5>
 					    <div class="dropdown">
@@ -134,7 +134,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="verde.jpg" class="card-img-top" alt="Quindim">
+					  <img src="verde.jpg" class="card-img-top" alt="QuindimImagem Cor Verde">
 					  <div class="card-body">
 					    <h5 class="card-title">Verde</h5>
 					    <div class="dropdown">
@@ -170,7 +170,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="marrom.jpg" class="card-img-top" alt="Mousse de Limão">
+					  <img src="marrom.jpg" class="card-img-top" alt="Imagem Cor Marrom">
 					  <div class="card-body">
 					    <h5 class="card-title">Marrom</h5>
 					    <div class="dropdown">
@@ -198,7 +198,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="roxo.jpg" class="card-img-top" alt="Beijinho de Uva">
+					  <img src="roxo.jpg" class="card-img-top" alt="Imagem Cor Roxo">
 					  <div class="card-body">
 					    <h5 class="card-title">Roxo</h5>
 					    <div class="dropdown">
@@ -226,7 +226,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="rosa.jpg" class="card-img-top" alt="Beijinho de Uva">
+					  <img src="rosa.jpg" class="card-img-top" alt="Imagem Cor Rosa">
 					  <div class="card-body">
 					    <h5 class="card-title">Rosa</h5>
 					    <div class="dropdown">
@@ -250,7 +250,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="vermelho.jpg" class="card-img-top" alt="Beijinho de Uva">
+					  <img src="vermelho.jpg" class="card-img-top" alt="Imagem Cor Vermelho">
 					  <div class="card-body">
 					    <h5 class="card-title">Vermelho</h5>
 					    <div class="dropdown">
@@ -275,7 +275,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="laranja.jpg" class="card-img-top laranja-tamanho" alt="Beijinho de Uva">
+					  <img src="laranja.jpg" class="card-img-top laranja-tamanho" alt="Imagem Cor Laranja">
 					  <div class="card-body">
 					    <h5 class="card-title">Laranja</h5>
 					    <div class="dropdown">
@@ -293,7 +293,7 @@
 					</article>
 
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="amarelo.jpg" class="card-img-top" alt="Beijinho de Uva">
+					  <img src="amarelo.jpg" class="card-img-top" alt="Imagem Cor Amarelo">
 					  <div class="card-body">
 					    <h5 class="card-title">Amarelo</h5>
 					    <div class="dropdown">
@@ -310,7 +310,7 @@
 					  </div>
 					</article>
 					<article class="card borda-card card-largura p-0 m-4 col-12 col-md-2">
-					  <img src="preto.jpg" class="card-img-top" alt="Beijinho de Uva">
+					  <img src="preto.jpg" class="card-img-top" alt="Imagem Cor Preto">
 					  <div class="card-body">
 					    <h5 class="card-title">Preto - Cinza</h5>
 					    <div class="dropdown">
